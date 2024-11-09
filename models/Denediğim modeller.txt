@@ -1,0 +1,5 @@
+yolo11x.pt   --> 111mb
+yolo11m.pt   --> 40mb
+yolov8x.pt   --> 133mb
+yolov8m.pt   --> 50mb
+yolov8n.pt   --> 6mb
